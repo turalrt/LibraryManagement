@@ -42,9 +42,9 @@ namespace LibraryManagement.Services
         {
             return Books.FindAll(b => b.PageCount > a || b.PageCount < c);
         }
-        public void RemoveByNo(string name)
+        public void RemoveByNo(string no)
         {
-            Books.Remove(Books.Find(b => b.Code.Contains(name)));
+            Books.Remove(Books.Find(b => b.Code.Contains(no)));
         }
     }
 }
