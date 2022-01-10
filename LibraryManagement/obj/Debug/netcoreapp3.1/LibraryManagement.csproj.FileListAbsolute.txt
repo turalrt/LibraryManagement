@@ -1,0 +1,14 @@
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.exe
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.deps.json
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.runtimeconfig.json
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.runtimeconfig.dev.json
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.dll
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.pdb
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.AssemblyInfo.cs
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.dll
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.pdb
+C:\Users\OBPRemote9\source\repos\LibraryManagement\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.genruntimeconfig.cache
