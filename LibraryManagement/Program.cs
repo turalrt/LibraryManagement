@@ -62,9 +62,9 @@ namespace LibraryManagement
         {
             Console.WriteLine("Enter The Book:");
             string name = Console.ReadLine();
-            Console.WriteLine("Enter The Author");
+            Console.WriteLine("Enter The Author:");
             string authorname = Console.ReadLine();
-            Console.WriteLine("Enter The Page Count");
+            Console.WriteLine("Enter The Page Count:");
             string pagecount = Console.ReadLine();
             int Pagecount;
             while (!int.TryParse(pagecount, out Pagecount))
@@ -93,7 +93,7 @@ namespace LibraryManagement
             {
                 Console.WriteLine("Enter Correctly!");
             }
-            Console.WriteLine("Enter Book Name");
+            Console.WriteLine("Enter Book Name:");
         CheckN:
             string name = Console.ReadLine();
             if (string.IsNullOrWhiteSpace(name))
@@ -114,7 +114,7 @@ namespace LibraryManagement
         static void RemoveAllBooksByName(ref Library library)
         {
             GetBooks(ref library);
-            Console.WriteLine("Enter Book Name");
+            Console.WriteLine("Enter Book Name:");
             string name = Console.ReadLine();
             foreach (Book item in library.Books)
             {
@@ -140,9 +140,9 @@ namespace LibraryManagement
         {
             if (library.Books.Count < 0)
             {
-                Console.WriteLine("Enter Book Name");
+                Console.WriteLine("Enter Book Name:");
             }
-            Console.WriteLine("Enter Book No");
+            Console.WriteLine("Enter Book No:");
         checkV:
             string value = Console.ReadLine();
 
@@ -163,7 +163,7 @@ namespace LibraryManagement
         static void RemoveByNo(ref Library library)
         {
             GetBooks(ref library);
-            Console.WriteLine("Enter Book No");
+            Console.WriteLine("Enter Book No:");
             string no = Console.ReadLine();
             foreach (Book item in library.Books)
             {
@@ -185,7 +185,7 @@ namespace LibraryManagement
         static void FindAllBooksByPageCountRange(ref Library library)
         {
             string startP = string.Empty;
-            Console.WriteLine("Min Page Count");
+            Console.WriteLine("Min Page");
         CheckMin:
             startP = Console.ReadLine();
             int min;
@@ -195,7 +195,7 @@ namespace LibraryManagement
                 goto CheckMin;
             }
             string endP = string.Empty;
-            Console.WriteLine("Max Page Count");
+            Console.WriteLine("Max Page");
         checkMax:
             endP = Console.ReadLine();
             int max;
